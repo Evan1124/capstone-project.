@@ -1,0 +1,17 @@
+
+For this problem, I would like to make a recommendation to open a new store for a chain restaurant in New York.
+I'll give the recommendation based on the target customer of the chain restaurant--whether it is an economic 
+restaurant or a high- end one, the maximum customer that the restaurant can serve every day, whether potential
+competitor exists in the neighborhood, etc. 
+
+The system that is going to be developedwill provide the recommendation of the potential site that gives
+the chain restaurant the maximum profit and gain competitive advantages in the community. 
+
+
+
+I will use the API from Foursquare to generate the data I need, like the kind of foods served in the nearby restaurants,
+the market size of the neighborhood, the rating of the competitors and so on. Perhaps I will use other data sources like 
+the socioeconomic data published by the NYC government if needed. 
+
+Based on these data, I will try to figure out an algorithm to consider them comprehensively to form the recommendation
+given to the chain restaurant.
